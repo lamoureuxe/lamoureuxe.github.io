@@ -30,10 +30,10 @@ git remote -v
 Now, you can make changes locally. To commit do
 git add .
 git commit -m "commit description"
-git push origin website-updates
+git push origin updates
 
-So, the commits have been pushed to the website-updates branch. Now, merge with the primary branch (gh-pages)
-git checkout gh-pages
-git merge website-updates
-git push origin gh-pages
+So, the commits have been pushed to the website-updates branch. Now, merge with the primary branch (main)
+git checkout main
+git merge updates
+git push origin main
 
