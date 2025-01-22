@@ -1,0 +1,15 @@
+<footer class="pt-5 my-5 text-muted border-top">
+  <div class="row justify-content-center">
+    <div class="col-md-6 text-center social-media-icons">
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}" class="ms-3 fs-5 text-decoration-none">
+          {% if item.icon == 'google_scholar' %}
+            <i class="ai ai-google-scholar"></i>
+          {% else %}
+            <i class="fab fa-{{ item.icon }}"></i>
+          {% endif %}
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</footer>

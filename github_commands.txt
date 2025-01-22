@@ -1,0 +1,39 @@
+SSH Key setup
+First, check existing SSH keys
+ls -la ~/.ssh
+
+On this machine they are named:
+30July2024_mac
+30July2024_mac.pub
+
+Add them to config
+nano ~/.ssh/config
+
+In cofig add:
+Host github.com
+  IdentityFile ~/.ssh/30July2024_mac
+
+Now, clone git repository
+
+git clone https://github.com/lamoureuxe/lamoureuxe.github.io.git
+cd lamoureuxe.github.io
+
+Now, change repository remote from https to ssh
+git remote set-url origin git@github.com:lamoureuxe/lamoureuxe.github.io.git
+
+Create a new branch for changes:
+git checkout -b website-updates
+
+Verify remotes are set up correctly:
+git remote -v
+
+Now, you can make changes locally. To commit do
+git add .
+git commit -m "commit description"
+git push origin website-updates
+
+So, the commits have been pushed to the website-updates branch. Now, merge with the primary branch (gh-pages)
+git checkout gh-pages
+git merge website-updates
+git push origin gh-pages
+
