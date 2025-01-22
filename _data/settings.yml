@@ -1,4 +1,6 @@
 menu:
+- {name: 'home', url: '/home'}
+- {name: 'blog', url: '/blog'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
@@ -16,4 +18,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/erik-lamoureux'}
 
 contacts:
-- {name: 'Erik Lamoureux', title: 'PhD Candidate', department: 'Mechanical Engineering', institution: 'The University of British Columbia', institution_address: '2350 Health Sciences Mall, Vancouver, Canada', phone: '(604) 341-4768', email: 'erik.s.lamoureux@gmail.com', office: 'Life Sciences Institute', image: 'assets/img/contact.jpg'}
+- {name: 'Erik Lamoureux', title: 'PhD Candidate', department: 'Mechanical Engineering', institution: 'The University of British Columbia', institution_address: '2350 Health Sciences Mall, Vancouver, Canada', phone: '(604) 341-4768', email: 'erik.s.lamoureux@gmail.com', office: 'Life Sciences Institute', image: 'assets/motherboard.png'}
