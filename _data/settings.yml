@@ -8,8 +8,8 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 courses:
-- {name: 'MECH 423: Mechatronics Product Design', url: 'mech-prod-design'}
-- {name: 'MECH 368: Electrical Instrumentation and Measurement', url: 'elec-instru'}
+- {name: 'MECH 423: Mechatronics Product Design', url: '/mech-prod-design'}
+- {name: 'MECH 368: Electrical Instrumentation and Measurement', url: '/elec-instru'}
 
 social:
 - {icon: 'google_scholar', link: 'https://scholar.google.ca/citations?user=AF1z09QAAAAJ&hl=en&oi=ao'}
@@ -19,4 +19,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/erik-lamoureux'}
 
 contacts:
-- {name: 'Erik Lamoureux', title: 'PhD Candidate', department: 'Mechanical Engineering', institution: 'The University of British Columbia', institution_address: '2350 Health Sciences Mall, Vancouver, Canada', phone: '(604) 341-4768', email: 'erik.s.lamoureux@gmail.com', office: 'Life Sciences Institute', image: 'assets/img/Horse.jpg'}
+- {name: 'Erik Lamoureux', title: 'PhD Candidate', department: 'Mechanical Engineering', institution: 'University of British Columbia', institution_address: '2350 Health Sciences Mall, Vancouver, Canada', phone: '(604) 341-4768', email: 'erik.s.lamoureux@gmail.com', office: 'Life Sciences Institute', image: 'assets/img/church.jpg'}
