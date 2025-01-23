@@ -20,4 +20,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/erik-lamoureux'}
 
 contacts:
-- {name: 'Erik Lamoureux', title: 'PhD Candidate', department: 'Mechanical Engineering', institution: 'University of British Columbia', institution_address: '2350 Health Sciences Mall, Vancouver, Canada', phone: '(604) 341-4768', email: 'erik.s.lamoureux@gmail.com', office: 'Life Sciences Institute', image: 'assets/img/tractor.jpg'}
+- {name: 'Erik Lamoureux', title: 'PhD Candidate', department: 'Mechanical Engineering', institution: 'University of British Columbia', institution_address: '2350 Health Sciences Mall, Vancouver, Canada', phone: '(604) 341-4768', email: 'erik.s.lamoureux@gmail.com', office: 'Life Sciences Institute', social: 'Google Scholar, Github, and LinkedIn are linked below', image: 'assets/img/tractor.jpg'}
