@@ -1,4 +1,4 @@
 ---
-layout: blog
-title: "Blog"
+layout: research
+title: "Research"
 ---
