@@ -2,11 +2,11 @@ featured:
 - {name: 'Biophysical profiling of red blood cells from thin-film blood smears using deep learning. E Lamoureux et al., Heliyon, 2024.', url: '/publications/Heliyon.pdf'}
 - {name: 'Segmenting Cardiac Ultrasound Videos Using Self-Supervised Learning. E Lamoureux et al., IEEE Engineering in Medicine and Biology Conference, 2023.' url: '/publications/IEEE.pdf'}
 - {name: 'Assessing red blood cell deformability from microscopy images using deep learning. E Lamoureux et al., Lab on a Chip, 2022.', url: '/publications/LabChip1.pdf'}
-- {name: 'Technologies for measuring red blood cell deformability. K Matthews, E Lamoureux, et al., Lab on a Chip, 2022', url: '/publications/LabChip2.pdf'}
+- {name: 'Technologies for measuring red blood cell deformability. K Matthews, E Lamoureux, et al., Lab on a Chip, 2022.', url: '/publications/LabChip2.pdf'}
 
 index:
 - {name: 'Biophysical profiling of red blood cells from thin-film blood smears using deep learning. E Lamoureux et al., 2024.', url: '/publications/Heliyon.pdf'}
 - {name: 'Segmenting Cardiac Ultrasound Videos Using Self-Supervised Learning. E Lamoureux et al., IEEE Engineering in Medicine and Biology Conference, 2023.' url: '/publications/IEEE.pdf'}
-- {name: 'Data for assessing red blood cell deformability from microscopy images using deep learning. E Lamoureux et al., Data in Brief, 2023, url: '/publications/Data.pdf'}
+- {name: 'Data for assessing red blood cell deformability from microscopy images using deep learning. E Lamoureux et al., Data in Brief, 2023.', url: '/publications/Data.pdf'}
 - {name: 'Assessing red blood cell deformability from microscopy images using deep learning. E Lamoureux et al., Lab on a Chip, 2022.', url: '/publications/LabChip1.pdf'}
-- {name: 'Technologies for measuring red blood cell deformability. K Matthews, E Lamoureux, et al., Lab on a Chip, 2022', url: '/publications/LabChip2.pdf'}
+- {name: 'Technologies for measuring red blood cell deformability. K Matthews, E Lamoureux, et al., Lab on a Chip, 2022.', url: '/publications/LabChip2.pdf'}
