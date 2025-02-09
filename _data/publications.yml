@@ -3,7 +3,7 @@ featured:
 - {name: 'Segmenting cardiac ultrasound videos using self-supervised learning. E Lamoureux et al., IEEE Engineering in Medicine and Biology Conference, 2023.', url: '/publications/IEEE_EMBC_2023.pdf'}
 - {name: 'Assessing red blood cell deformability from microscopy images using deep learning. E Lamoureux et al., Lab on a Chip, 2022.', url: '/publications/LoC_2022_22_26.pdf'}
 - {name: 'Technologies for measuring red blood cell deformability. K Matthews, E Lamoureux, et al., Lab on a Chip, 2022.', url: '/publications/LoC_2022_22_1254.pdf'}
-- {name: 'See all publications', url: '/publications'}
+- {name: 'See all publications.', url: '/publications'}
 
 index:
 - {name: 'Biophysical profiling of red blood cells from thin-film blood smears using deep learning. E Lamoureux, Y Cheng, E Izlamzada, K Matthews, SP Duffy, H Ma, Heliyon, 2024.', url: '/publications/Heliyon_2024_10_e35276.pdf'}
