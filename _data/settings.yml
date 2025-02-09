@@ -8,9 +8,16 @@ menu:
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
+research:
+- {name: 'Real-Time Imaging Using Deep Learning to Identify Rare Sperm Cells', url: 'real-time'}
+- {name: 'Biophysical Profiling of Red Blood Cells Using Deep Learning', url: 'biophysical'}
+- {name: 'Assessing Red Blood Cell Deformability Using Deep Learning', url: 'deformability'}
+- {name: 'Self-Supervised Learning for Segmenting Cardiac Ultrasound Videos', url: 'self-supervised'}
+
 courses:
-- {name: 'MECH 423: Mechatronics Product Design', url: '/mech-prod-design'}
-- {name: 'MECH 368: Electrical Instrumentation and Measurement', url: '/elec-instru'}
+- {name: 'MECH 423: Mechatronics Product Design', url: 'mecha-prod-design'}
+- {name: 'MECH 421: Mechatronic System Instrumentation', 'mecha-system-instru'}
+- {name: 'MECH 368: Electrical Instrumentation and Measurement', url: 'elec-instru'}
 
 social:
 - {icon: 'google_scholar', link: 'https://scholar.google.ca/citations?user=AF1z09QAAAAJ&hl=en&oi=ao'}
